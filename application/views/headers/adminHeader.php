@@ -87,6 +87,7 @@
               <br>
               <br>
               <br>
+              <li><a href="#">Hello, <?php echo $_SESSION["username"]; ?></a></li>
               <a class="nav-link" href="<?php echo site_url('Login/logout');?>" style="font-size:15px;">Logout</a>
             </div>
             <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#main-navigation">
