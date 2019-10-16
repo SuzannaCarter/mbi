@@ -100,7 +100,7 @@
                 </div>
               </div>
             <a class="navbar-brand" href="<?php echo site_url('accountant/Accountant/');?>">
-                <img src="images/MBILogo2.png" alt="" width=50 height=50>
+                <img src="assets/images/MBILogo2.png" alt="" width=50 height=50>
             </a>
         </nav>
         <br>
